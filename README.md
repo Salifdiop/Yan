@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -75,5 +74,3 @@
             <td>TP Groupe 2</td>
        </tr>
     </table>
-</body>
-</html>
